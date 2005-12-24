@@ -9,9 +9,9 @@ Release:	1
 License:	GPL
 Group:		Development/Languages/Python
 Source0:	statesaver.c
-# Source0-md5:	0a43470f63f7151df8d00f8c9942ab21
+# NoSource0-md5:	0a43470f63f7151df8d00f8c9942ab21
 Source1:	statesaver-setup.py
-# Source1-md5:	e62b320692c79bdaba519c977bbd6b33
+# NoSource1-md5:	e62b320692c79bdaba519c977bbd6b33
 BuildRequires:	python-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
