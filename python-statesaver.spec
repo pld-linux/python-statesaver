@@ -2,7 +2,7 @@
 %define	module	statesaver
 
 Summary:	Python object duplicator working on generators and iterators
-Summary(pl.UTF-8):   Duplikator obiektów Pythona działający na generatorach i iteratorach
+Summary(pl.UTF-8):	Duplikator obiektów Pythona działający na generatorach i iteratorach
 Name:		python-%{module}
 Version:	0.20051220.1
 Release:	1
