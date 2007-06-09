@@ -12,7 +12,7 @@ Source0:	statesaver.c
 # NoSource0-md5:	0a43470f63f7151df8d00f8c9942ab21
 Source1:	statesaver-setup.py
 # NoSource1-md5:	e62b320692c79bdaba519c977bbd6b33
-BuildRequires:	python-devel
+BuildRequires:	python-devel < 1:2.5
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
